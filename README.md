@@ -52,6 +52,7 @@ Our analysis will encompass two primary scopes: brand awareness and traffic gene
 - Evaluate the creative, targeting, or placement strategy for ad type D to identify areas for improvement. Alternatively, consider reducing its budget allocation until its performance improves.
 
 ## Dashboard
-The dashboard can be found in Tableau Public here. This dashboard focuses on value comparison among ad types in brand awareness and traffic generations metrics and enables users to filter by the month the campaign ran.
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/views/AdPerformanceDashboard_17326604930840/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). This dashboard focuses on value comparison among ad types in brand awareness and traffic generations metrics and enables users to filter by the month the campaign ran.
+
 
 ![image](https://github.com/user-attachments/assets/e0fb1ad6-d000-47fe-ac95-03d29bdfe047)
